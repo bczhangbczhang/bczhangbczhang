@@ -7,12 +7,19 @@ In this topic, we struggle for many years to understand how Gabor can help us un
 Following the path of Gabor features, we develop Gabor CNNs (2018 hot-spot article with372 Google scholar citations) to improve the performance and interpretability of deep learning models. Our model can produce scale/regional adaptive features based on Gabor modulation and pooling operation. Our method also provide the  proof and theoretical foundation that the uncertainty of Gaussian mixture models are bounded(first author paper in IJCV 2016). The related work has been published in IJCV/ IEEE TIP/CVPR/TNNLS. The selected papers for this topic are listed as below.
 
 [1] Zhang Baochang, Perina Alessandro, Li Zhigang, Murino Vittorio, Liu Jianzhuang, Ji Rongrong. Bounding multiple gaussians uncertainty with application to object tracking[J]. International journal of computer vision, 2016, 118: 364-379.
+
 [2] Luan Shangzhen, Chen Chen, Zhang Baochang*, Han Jungong*, Liu Jianzhuang. Gabor convolutional networks[J]. IEEE Transactions on Image Processing, 2018, 27(9): 4357-4366.
+
 [3] Wang Runqi, Duan Xiaoyue, Kang Guoliang, Liu Jianzhuang, Lin Shaohui, Xu Songcen, Lu Jinhu, Zhang Baochang*. AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023 
+
 [4] Zhang Baochang, Wang Runqi, Wang Xiaodi, Han Jungong, Ji Rongrong. Modulated convolutional networks[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+
 [5] Mao Mingyuan , Zhang Renrui , Zheng Honghui , Gao Peng , Ma Teli , Peng Yan , Ding Eerui , Zhang Baochang*, Han Shumin*. Dual-stream network for visual recognition. Advances in Neural Information Processing Systems, 2021, 34: 25346-25358. 
+
 [6] Zhang Baochang, Yang Wankou, Wang Ze, Zhuo Lian, Han Jungong, Zhen Xiantong. The structure transfer machine theory and applications[J]. IEEE Transactions on Image Processing, 2019, 29: 2889-2902.
+
 [7] Baochang Zhang, Shiguang Shan, Xilin Chen, Wen Gao: Histogram of Gabor Phase Patterns (HGPP): A Novel Object Representation Approach for Face Recognition. IEEE Trans. Image Process. 16(1): 57-68 (2007)
+
 [8] Baochang Zhang, Yongsheng Gao, Sanqiang Zhao, Jianzhuang Liu: Local Derivative Pattern Versus Local Binary Pattern: Face Recognition With High-Order Local Pattern Descriptor. IEEE Trans. Image Process. 19(2): 533-544 (2010)
 
 
