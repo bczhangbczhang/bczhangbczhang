@@ -28,12 +28,19 @@ Following the path of Gabor features, we develop Gabor CNNs (2018 hot-spot artic
 As the first author, I proposed Modulated neural networks, a learnable version of Gabor CNNs, to significantly compress deep models. We further developed a series of binary neural networks (BNNs), with more than 20 top tier conference/journal papers published, such as in IJCV/PAMI, CVPR (oral, highlight), and AAAI (oral). We published the first book in the field of BNNs. Our 1-bit object detector achieved lossless mAP performance with more than 10-times speed-up over full-precision counterparts on low-power ARM processors.  We received long-term project support with an outstanding final project evaluation from Huawei. 16 of our BNNs/ low-bit algorithms/models were integrated into Huawei Noah/Bolt and MindSpore. Our lossless low-bit quantization methods were successfully and widely used in industry. Our work was cited by Christoph Meinel, Academician of the German Academy of Engineering (e.g. state-of-the-art and improved training strategy). Our BNN object detectors were embedded into intelligent cameras for Mine site abnormal behavior and building vibration monitoring by Jingying shuzhi Technology Co. Ltd. We are one of the biggest groups on model compression and acceleration in the world, contributing about 20% top tier conference/journal papers in the field of BNNs (recent 3 years).
 
 [1] Zhao Junhe, Gu Jiaxin, Jiang Xiaolong, Zhang Baochang*, Guo Guodong, Liu Jianzhuang. Bayesian optimized 1-bit CNNs[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 4909-4917.
+
 [2] Xu Sheng, Zhao Junhe, Lv Jinhu, Zhang Baochang*, Han Shumin, Doermann David. Layer-wise searching for 1-bit detectors[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 5682-5691. 
+
 [3] Zhao Junhe, Xu Sheng, Zhang Baochang*, Gu Jiaxin, Doermann David, Guo Guodong. Towards compact 1-bit CNNs via Bayesian learning[J]. International Journal of Computer Vision, 2022: 1-25.
+
 [4] Chen Hanlin, Zhuo Li’an, Zhang Baochang*, Zheng Xiawu, Liu Jianzhuang, Doermann David, Ji Rongrong. Binarized neural architecture search for efficient object recognition[J]. International Journal of Computer Vision, 2021, 129: 501-516.
+
 [5] Lin Mingbao, Ji Rongrong, Sun Xiaoshuai, Zhang Baochang, Huang Feiyue, Tian Yonghong, Tao Dacheng. Fast class-wise updating for online hashing[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020, 44(5): 2453-2467.
+
 [6] Li Yanjing, Xu Sheng, Cao Xianbin*, Zhuo Li’an, Zhang Baochang*, Wang Tian, Guo Guodong. DCP-NAS: Discrepant Child-Parent Neural Architecture Search for 1-bit CNNs. International Journal of Computer Vision, 2023. 
+
 [7] Liu Chunlei, Ding Wenrui, Hu Yuan, Zhang Baochang*, Liu Jianzhuang, Guo Guodong, Doermann David. Rectified binary convolutional networks with generative adversarial learning[J]. International Journal of Computer Vision, 2021, 129: 998-1012.
+
 [8] Xu Sheng, Yanjing Li, Mingbao Lin, Peng Gao, Guodong Guo, Jinhu Lu, Zhang Baochang*. Q-DETR: An Efficient Low-Bit Quantized Detection Transformer[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
 
 
@@ -43,12 +50,19 @@ We discovered the independence assumption defect of the classical gradient desce
 
 
 [1] Zhuo Li’an, Zhang Baochang*, Yang Linlin, Chen Hanlin, Ye Qixiang, Doerman David, Ji Rongrong, Guo Guodong. Cogradient descent for bilinear optimization[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 7959-7967.
+
 [2] Wang Runqi, Liu Zhen, Zhang Baochang*, Guo Guodong, Doermann David. Few-Shot Learning with Complex-Valued Neural Networks and Dependable Learning[J]. International Journal of Computer Vision, 2023, 131(1): 385-404. 
+
 [3] Wang Runqi, Duan Xiaoyue, Kang Guoliang, Liu Jianzhuang, Lin Shaohui, Xu Songcen, Lu Jinhu, Zhang Baochang*. AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. 
+
 [4] Zheng Xiawu, Ji Rongrong, Chen Yuhang, Wang Qiang, Zhang Baochang, Chen Jie, Ye Qixiang, Huang Feiyue, Tian Yonghong. Migo-nas: Towards fast and generalizable neural architecture search[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, 43(9): 2936-2952.
-[5] Wang Runqi, Zheng Hao, Duan Xiaoyue, Liu Jianzhuang, Lu Yuning, Wang Tian, Xu Songcen, Zhang Baochang*. Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023 (Accept)
+
+[5] Wang Runqi, Zheng Hao, Duan Xiaoyue, Liu Jianzhuang, Lu Yuning, Wang Tian, Xu Songcen, Zhang Baochang*. Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
+
 [6] Mingyuan Mao, Yuxin Tian, Baochang Zhang*, Qixiang Ye, Wanquan Liu, David S. Doermann: iffDetector: Inference-Aware Feature Filtering for Object Detection. IEEE Trans. Neural Networks Learn. Syst. 33(11): 6494-6503 (2022)
+
 [7] Chunlei Liu, Wenrui Ding*, Jinyu Yang, Vittorio Murino, Baochang Zhang*, Jungong Han, Guodong Guo: Aggregation Signature for Small Object Tracking. IEEE Trans. Image Process. 29: 1738-1747 (2020)
+
 [8] Y. Feng, B. Zhang, X. Wang, X. Ying, J. Liu, M. Mao, S. Xu, Baochang Zhang*, Shumin Han*, TOD Challenge on 1st Tiny Person Detection, European Conference on Computer Vision 2020
 
 4. Summary of my contributions
