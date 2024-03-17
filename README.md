@@ -22,6 +22,7 @@ Following the path of Gabor features, we develop Gabor CNNs (2018 hot-spot artic
 
 [8] Baochang Zhang, Yongsheng Gao, Sanqiang Zhao, Jianzhuang Liu: Local Derivative Pattern Versus Local Binary Pattern: Face Recognition With High-Order Local Pattern Descriptor. IEEE Trans. Image Process. 19(2): 533-544 (2010)
 
+The source code about Gabor CNNs can refer to my student github: https://github.com/jxgu1016
 
 2. Model compression and acceleration. 
 
@@ -43,6 +44,7 @@ As the first author, I proposed Modulated neural networks, a learnable version o
 
 [8] Xu Sheng, Yanjing Li, Mingbao Lin, Peng Gao, Guodong Guo, Jinhu Lu, Zhang Baochang*. Q-DETR: An Efficient Low-Bit Quantized Detection Transformer[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
 
+The project related to our work can refer to my student Yanjing Li and Sheng xu github: https://github.com/YanjingLi0202, https://github.com/SteveTsui 
 
 3. Cogradient descent algorithm for decoupled learning.
  
@@ -64,6 +66,8 @@ We discovered the independence assumption defect of the classical gradient desce
 [7] Chunlei Liu, Wenrui Ding*, Jinyu Yang, Vittorio Murino, Baochang Zhang*, Jungong Han, Guodong Guo: Aggregation Signature for Small Object Tracking. IEEE Trans. Image Process. 29: 1738-1747 (2020)
 
 [8] Y. Feng, B. Zhang, X. Wang, X. Ying, J. Liu, M. Mao, S. Xu, Baochang Zhang*, Shumin Han*, TOD Challenge on 1st Tiny Person Detection, European Conference on Computer Vision 2020
+
+The project related to our work can refer to my student Sheng xu github: https://github.com/SteveTsui 
 
 4. Summary of my contributions
 
