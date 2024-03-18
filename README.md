@@ -22,6 +22,7 @@ In this topic, we struggle for many years to understand how Gabor can help us un
 [8] Baochang Zhang, Yongsheng Gao, Sanqiang Zhao, Jianzhuang Liu: Local Derivative Pattern Versus Local Binary Pattern: Face Recognition With High-Order Local Pattern Descriptor. IEEE Trans. Image Process. 19(2): 533-544 (2010)
 
 The source code about Gabor CNNs can refer to my student github: https://github.com/jxgu1016
+
 The source code of denseMBLDP(I, options) is shown in examples as demo_denseMBLDP: https://www.mathworks.com/matlabcentral/fileexchange/29800-scenes-objects-classification-toolbox 
 
 2. Model compression and acceleration. 
